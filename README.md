@@ -15,3 +15,4 @@ Favor asegurarse de haberse dirigido previamente hacia la carpeta de la tarea, e
 
 Consideraciones adicionales:
 Asegurarse que al testear, la sintáxis sea tal que: predicado(par1, par2, ...). (Con el punto al final).
+Al finalizar un caso de prueba (en especial en la pregunta 1), si este es true, se deberá dar un enter adicional para volver a ingresar otro caso de prueba, desconozco el motivo.
